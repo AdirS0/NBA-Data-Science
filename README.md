@@ -25,7 +25,7 @@ Removed missing data.</br>
 Filled missing values.</br>
 Handled outliers.</br>
 
-# Visualisation
+# Visualization
 We visualized our data and then analyzed it to try and learn more about it.</br>
 We used seaborn and matplotlib visual libraries.
 
