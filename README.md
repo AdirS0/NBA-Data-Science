@@ -1,7 +1,3 @@
-# NBA-Data-Science
-
-This repository contains a project made by Adir Solomon, Hai Elimelech and Aviv Amrusi in a data science class at Holon Institute of Technology, analyzing NBA players stats by using pandas and machine learning in Python.</br>
-
 # Main Purpose
 The NBA has a lot of interesting statistics but there is a statistic that combines them all, under the name PER.</br>
 We used it to estimate the success of the players in their season.</br>
